@@ -1,2 +1,1 @@
-# TESTING-APIs
-TESTING APIs For school project
+Yapchulay gaming
